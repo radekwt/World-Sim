@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (pppp.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Antylopa.cpp
+  BarszczSosnowskiego.cpp
+  Czlowiek.cpp
+  GeneratorOrganizmow.cpp
+  Guarana.cpp
+  Komentator.cpp
+  Lis.cpp
+  Mlecz.cpp
+  Organizm.cpp
+  Owca.cpp
+  Punkt.cpp
+  Roslina.cpp
+  Swiat.cpp
+  Trawa.cpp
+  WilczeJagody.cpp
+  Wilk.cpp
+  Zolw.cpp
+  Zwierze.cpp
+  Źródło.cpp
+  Generowanie kodu...
+C:\Users\radek\source\repos\pppp\pppp\GeneratorOrganizmow.cpp(27): warning C4715: "GeneratorOrganizmow::generateNewOrganizm”: niewszystkie ścieżki kodu zwracają wartość
+  pppp.vcxproj -> C:\Users\radek\source\repos\pppp\Debug\Projekt1_OOP_184468.exe
